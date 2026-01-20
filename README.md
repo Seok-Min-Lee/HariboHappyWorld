@@ -24,10 +24,10 @@
 
 <table>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="175">
       그룹
     </td>
-    <td align="center" width="250">
+    <td align="center" width="225">
       콘텐츠명
     </td>
     <td align="center" width="600">
@@ -36,10 +36,10 @@
   </tr>
   
   <tr>
-    <td align="center" width="150" rowspan="8">
+    <td align="center" width="175" rowspan="8">
       하리보 비치타운
     </td>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       해피콜라를 찾아라!
     </td>
     <td width="600">
@@ -54,7 +54,7 @@
   </tr>
   
   <tr>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       쌍둥이 젤리를 찾아라!
     </td>
     <td width="600">
@@ -68,7 +68,7 @@
   </tr>
 
   <tr>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       하리보 박사과정
     </td>
     <td width="600">
@@ -82,7 +82,7 @@
   </tr>
 
   <tr>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       구미팡팡
     </td>
     <td width="600">
@@ -96,10 +96,10 @@
   </tr>
   
   <tr>
-    <td align="center" width="150" rowspan="6">
+    <td align="center" width="175" rowspan="6">
       하리보 제작 공정
     </td>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       몰딩 찍기
     </td>
     <td width="600">
@@ -113,7 +113,7 @@
   </tr>
 
   <tr>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       가루 털기
     </td>
     <td width="600">
@@ -127,7 +127,7 @@
   </tr>
   
   <tr>
-    <td align="center" width="250" rowspan="2">
+    <td align="center" width="225" rowspan="2">
       통 돌리기
     </td>
     <td width="600">
